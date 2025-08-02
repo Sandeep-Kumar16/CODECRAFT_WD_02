@@ -1,6 +1,6 @@
 # Internship Task 2 - Web Development
 
-# Project Title: Responsive Landing Page
+# Project Title: Stopwatch web Application
 
 This is Task 2 of the CodeCraft Web Development Internship. The task was to build a stopwatch application using HTML, CSS, and JavaScript.
 
